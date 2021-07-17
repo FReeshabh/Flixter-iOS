@@ -18,8 +18,8 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthrough GIF
 
-
-<img src="https://im4.ezgif.com/tmp/ezgif-4-732883b34056.gif" width=250><br>
+Image doesn't play on Github, so here's the link: https://s6.gifyu.com/images/Flixter2Demob36e93040e377df2.gif
+<img src="https://s6.gifyu.com/images/Flixter2Demob36e93040e377df2.md.gif" width=250><br>
 
 ### Notes
 Register with restoration ID too! Also don't spend too much time on things that don't matter. Also GIF can't have too high of a resolution of Github.
